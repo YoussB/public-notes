@@ -1,4 +1,4 @@
-Hey Everyone, 
+Hey Folks, 
 
 As we move into the resource marketplace for Concourse (AKA project [dutyfree](https://github.com/concourse/dutyfree/)), we are requesting the resource type contributors to add their resources here.
 
