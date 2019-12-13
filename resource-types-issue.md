@@ -4,6 +4,7 @@ As we move into the resource marketplace for Concourse [AKA project dutyfree], w
 
 I am tagging all the contributors that were listed under the original [Concourse wiki](uhttps://github.com/concourse/concourse/wiki/Resource-Types) and awaiting your kind feedback.
 
+
 | Resource Type | Maintained By... |
 | ------------- | ------------- |
 | [Slack Reading and Posting](https://github.com/jleben/slack-chat-resource) | by [at]jleben |
