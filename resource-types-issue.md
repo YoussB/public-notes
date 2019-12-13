@@ -1,6 +1,6 @@
 Hey Everyone, 
 
-As we move into the resource marketplace for Concourse [AKA project dutyfree], we are requesting the resource type contributors to add their resources here as explained in the [readme](https://github.com/concourse/resource-types/blob/master/README.md).
+As we move into the resource marketplace for Concourse (AKA project [dutyfree](https://github.com/concourse/dutyfree/)), we are requesting the resource type contributors to add their resources here as explained in the [readme](https://github.com/concourse/resource-types/blob/master/README.md).
 
 I am tagging all the contributors that were listed under the original [Concourse wiki](https://github.com/concourse/concourse/wiki/Resource-Types) and awaiting your kind feedback.
 
